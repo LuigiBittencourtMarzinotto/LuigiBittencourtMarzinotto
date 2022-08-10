@@ -1,5 +1,5 @@
 
-## Oii eu sou o Luigi Bittenocurt Marzinotto
+## Oii eu sou o Luigi Bittencourt Marzinotto
 - 👨‍💻 Programando com Front-end
 - 🌱 Desenvolvendo em Javascript, Java e PHP
 <div align="center">
