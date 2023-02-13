@@ -1,7 +1,7 @@
 
 ## Oii eu sou o Luigi Bittencourt Marzinotto
-- 👨‍💻 Programando com Front-end
-- 🌱 Desenvolvendo em Javascript, Java , PHP e MySQL
+- 👨‍💻 Programandor Full-Stack
+- 🌱 Desenvolvendo em Javascript, Python , PHP e MySQL
 <div align="center">
   <a href="https://github.com/LuigiBittencourtMarzinotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiBittencourtMarzinotto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
