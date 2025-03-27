@@ -3,7 +3,6 @@
  - 👨‍💻 Programandor Full-Stack
  - 🌱 Desenvolvendo em Javascript, Python , PHP e MySQL
    
-    
   </br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBittencourtMarzinotto&layout=compact&langs_count=7&theme=chartreuse-dark">
 <div style="display: inline_block"><br>
